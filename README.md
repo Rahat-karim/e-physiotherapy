@@ -1,6 +1,4 @@
 # e-physiotherapy
-for more quries or full source code contact through an email(karimrahat33@gmail.com).
-
 introduction:
 Machine learning is revolutionizing the healthcare industry and has the potential to take over technology
 Physiotherapists play a crucial role in teaching patients the proper way of exercising for effective recovery
@@ -65,6 +63,7 @@ revolutionize the healthcare industry
 modern advancements
 
 
+for more quries or full source code contact through an email(karimrahat33@gmail.com).
 
 
 
